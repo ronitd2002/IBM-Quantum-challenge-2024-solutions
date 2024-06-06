@@ -1,1 +1,1 @@
-# IBM Qiskit Quantum Challenege 2024
+# IBM Qiskit Quantum Challenge 2024
